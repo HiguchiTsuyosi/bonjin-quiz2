@@ -1,0 +1,13 @@
+- model: question.Question
+  pk: 3
+  fields:
+    question: "２×４＝６"
+    answer: false
+    comment: "正解は×"
+- model: question.Question
+  pk: 4
+  fields:
+    question: "９÷３＝３"
+    answer: true
+    comment: "正解は〇"
+  
